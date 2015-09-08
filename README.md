@@ -1,5 +1,9 @@
 # @qrohlf's reaction gif stash
 
+## AcademicAthleticArawana.gif
+
+![](AcademicAthleticArawana.gif)
+
 ## approves.gif
 
 ![](approves.gif)
@@ -44,6 +48,14 @@
 
 ![](han-solo-wat.gif)
 
+## headshot-bball.gif
+
+![](headshot-bball.gif)
+
+## i-dont-give-a-fuck-boba-fett-gif.gif
+
+![](i-dont-give-a-fuck-boba-fett-gif.gif)
+
 ## kaboom.gif
 
 ![](kaboom.gif)
@@ -55,6 +67,10 @@
 ## larrydavid.gif
 
 ![](larrydavid.gif)
+
+## mad-max-thumbs-up.gif
+
+![](mad-max-thumbs-up.gif)
 
 ## more-odd-dancing.gif
 
@@ -84,9 +100,21 @@
 
 ![](odd-dancing.gif)
 
+## really.gif
+
+![](really.gif)
+
+## sloth.gif
+
+![](sloth.gif)
+
 ## sunglasses.gif
 
 ![](sunglasses.gif)
+
+## thumbs-up.gif
+
+![](thumbs-up.gif)
 
 ## wat.gif
 

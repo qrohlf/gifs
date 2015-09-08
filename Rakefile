@@ -9,3 +9,5 @@ task :update do
     end
   end
 end
+
+task default: :update
