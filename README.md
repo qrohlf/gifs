@@ -116,6 +116,10 @@
 
 ![](really.gif)
 
+## seals.gif
+
+![](seals.gif)
+
 ## sliently-screaming.gif
 
 ![](sliently-screaming.gif)
