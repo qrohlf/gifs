@@ -12,6 +12,10 @@
 
 ![](approves.gif)
 
+## boing.gif
+
+![](boing.gif)
+
 ## classified.gif
 
 ![](classified.gif)
@@ -139,6 +143,10 @@
 ## thumbs-up.gif
 
 ![](thumbs-up.gif)
+
+## topgun_explanation.gif
+
+![](topgun_explanation.gif)
 
 ## wat.gif
 
